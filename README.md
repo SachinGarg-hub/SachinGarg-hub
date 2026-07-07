@@ -197,8 +197,7 @@ Designing and shipping full-stack production-style applications end-to-end — f
 
 | Recognition | Details |
 |---|---|
-| 🎓 **AWS Academy Graduate** | Certified in Cloud Foundations |
-| 📜 **Microsoft Learn Certified** | Completed structured technical learning paths |
+| 🎓 **AWS Academy Graduate** | Certified in Cloud Foundations | artifical intelegince and machine learning |
 | 🧩 **HackerRank Problem Solver** | Solved algorithmic challenges across JS & C++ |
 | 🛠️ **Independent ML Debugging** | Diagnosed & resolved critical model bias in production dataset |
 
@@ -238,10 +237,9 @@ Designing and shipping full-stack production-style applications end-to-end — f
 
 <div align="center">
 
-<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=1a1a2e"/></a>
-<a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="[https://leetcode.com](https://leetcode.com/u/sachin_252005/)/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=1a1a2e"/></a>
+<a href="[https://www.hackerrank.com/](https://www.hackerrank.com/profile/gargsachin809)"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="[https://www.codechef.com/](https://www.codechef.com/users/long_calm_45)"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1a2e"/></a>
 
 </div>
 
@@ -294,7 +292,6 @@ Designing and shipping full-stack production-style applications end-to-end — f
 
 ## 🎯 Current Focus
 
-```yaml
 current_focus:
   learning:
     - Advanced ML model explainability (SHAP, feature attribution)
@@ -310,7 +307,7 @@ current_focus:
     - Full Stack Engineering roles
     - AI/ML Engineering internships
     - Security-focused SWE positions
-```
+
 
 ---
 
@@ -318,7 +315,7 @@ current_focus:
 
 <div align="center">
 
-<a href="mailto:sachin.garg@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="mailto:gargsachin809"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://github.com/SachinGarg-hub"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://github.com/SachinGarg-hub"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
